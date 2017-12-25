@@ -1,0 +1,2 @@
+The railway is a high volume connection between two land-connected places.
+Every unit travelling on it is called a TRAIN. Every train has at least one engine.
